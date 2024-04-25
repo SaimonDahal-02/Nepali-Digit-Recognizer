@@ -92,33 +92,33 @@ The CNN architecture is designed as follows:
 
 **Using Adam + GELU**
 
-![Plots](https://github.com/shailesh-olive/InternshipRepo/blob/57c0bcf1bb84d7a24b9c85cba2e2543469c8e2e9/pyTorch/plots/adam_plot.png)
+![Plots](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adam_plot.png)
 
-![Confusion Matrix](https://github.com/shailesh-olive/InternshipRepo/blob/e7e23a2e46bf2c2f9af4aca698b3decb4eca04d7/pyTorch/plots/adam_confusion_matrix.png)
+![Confusion Matrix](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adam_confusion_matrix.png)
 
 **Using Adam + ReLU**
 
-![Plots](https://github.com/shailesh-olive/InternshipRepo/blob/1b03c44e676563141acb14fdfa6c7f48050903db/pyTorch/plots/adam_relu_plot.png)
+![Plots](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adam_relu_plot.png)
 
-![Confusion Matrix](https://github.com/shailesh-olive/InternshipRepo/blob/1b03c44e676563141acb14fdfa6c7f48050903db/pyTorch/plots/adam_relu_confusion_matrix.png)
+![Confusion Matrix](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adagrad_relu_confusion_matrix.png)
 
 **Using SGD + GELU**
 
-![Plots](https://github.com/shailesh-olive/InternshipRepo/blob/6c970c75d366b23b2f283f24ce73a0a8412c8eef/pyTorch/plots/plot2.png)
+![Plots](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/plot2.png)
 
-![Confusion Matrix](https://github.com/shailesh-olive/InternshipRepo/blob/e7e23a2e46bf2c2f9af4aca698b3decb4eca04d7/pyTorch/plots/sgd_confusion_matrix.png)
+![Confusion Matrix](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/sgd_confusion_matrix.png)
 
 **Using Adagrad + GELU**
 
-![Plots](https://github.com/shailesh-olive/InternshipRepo/blob/57c0bcf1bb84d7a24b9c85cba2e2543469c8e2e9/pyTorch/plots/adagrad_plot.png)
+![Plots](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adagrad_plot.png)
 
-![Confusion Matrix](https://github.com/shailesh-olive/InternshipRepo/blob/e7e23a2e46bf2c2f9af4aca698b3decb4eca04d7/pyTorch/plots/adagrad_confusion_matrix.png)
+![Confusion Matrix](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adagrad_confusion_matrix.png)
 
 **Using Adagrad + ReLU**
 
-![Plots](https://github.com/shailesh-olive/InternshipRepo/blob/1b03c44e676563141acb14fdfa6c7f48050903db/pyTorch/plots/adagrad_relu_plot.png)
+![Plots](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adagrad_relu_plot.png)
 
-![Confusion Matrix](https://github.com/shailesh-olive/InternshipRepo/blob/1b03c44e676563141acb14fdfa6c7f48050903db/pyTorch/plots/adagrad_confusion_matrix.png)
+![Confusion Matrix](https://github.com/SaimonDahal-02/Nepali-Digit-Recognizer/blob/d6353bba73cca9cb1663a3aff4e4fb7eafaebeac/plots/adagrad_relu_confusion_matrix.png)
 
 
 ## Conclusion
