@@ -1,0 +1,6 @@
+*.pth
+*.pyc
+mlruns/
+data/
+__pycache__/
+*.ipynb
